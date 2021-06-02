@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "1075373604854",
+    "firebase_url": "https://expertrons-70fc9.firebaseio.com",
+    "project_id": "expertrons-70fc9",
+    "storage_bucket": "expertrons-70fc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075373604854:android:290ceb1db5a4709015d1d7",
+        "android_client_info": {
+          "package_name": "com.expertrons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075373604854-o3n5l7c7ou5n3jmvlm71vpamcm97l30n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.expertrons",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1075373604854-fsuij8me4cfgqkgpu4i8ajblq7u9nb2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.expertrons",
+            "certificate_hash": "65a883b762dae5a5cbaf0560f87b53ce8c9f9eb3"
+          }
+        },
+        {
+          "client_id": "1075373604854-s5umila3sd1ilsd9np851c5nvbpuvenf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.expertrons",
+            "certificate_hash": "23a148c87c3f008ab6b7f2d7fcbf3877da8fc03f"
+          }
+        },
+        {
+          "client_id": "1075373604854-0cjd0iskte93euo96mn6jqfgcd5p51sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4zjylrMCTsBgSGCO_vX7nCRoWf7rdxS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075373604854-0cjd0iskte93euo96mn6jqfgcd5p51sg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075373604854-hlsir7vf698alc9mh9v3tr3raijmug4q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.expertrons"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
